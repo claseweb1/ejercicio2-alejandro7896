@@ -1,0 +1,32 @@
+
+
+body{
+  font-family: 'Share Tech Mono', monospace;
+  background: black;
+}
+h1{
+  color: blue;
+  font-size: 30px;
+}
+a{
+  color: blue;
+}
+p{
+  color: white;
+}
+ul{
+  color: white;
+}
+h3{
+  color: red;
+}
+.arriba{
+  border: purple 1px solid;
+  border-radius: 10px;
+}
+.imagen{
+  border-radius: 100%;
+  border-spacing: 50%;
+  width: 20%; height: 20%;
+  margin-left: 25%;
+}
